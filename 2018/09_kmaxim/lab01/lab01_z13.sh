@@ -1,5 +1,5 @@
 ﻿#!/bin/bash
-
+echo " изменение" 
 arr=($@)
 i=0
 while [ $i -lt $# ]
